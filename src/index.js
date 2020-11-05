@@ -12,7 +12,7 @@ function subtract(x, y) {
   return x - y;
 }
 
-// multiply stuff
+// multiply stuff yes
 function multiply(x, y) {
   return x * y;
 }
