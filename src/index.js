@@ -7,8 +7,14 @@ function add(x, y) {
   return x + y;
 }
 
+// subtract stuff
 function subtract(x, y) {
   return x - y;
+}
+
+// multiply stuff
+function multiply(x, y) {
+  return x * y;
 }
 
 export default add;
