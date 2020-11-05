@@ -12,4 +12,9 @@ function subtract(x, y) {
   return x - y;
 }
 
+// subtract stuff
+function multiply(x, y) {
+  return x * y;
+}
+
 export default add;
