@@ -7,6 +7,7 @@ function add(x, y) {
   return x + y;
 }
 
+// subtract stuff
 function subtract(x, y) {
   return x - y;
 }
